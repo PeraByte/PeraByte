@@ -1,3 +1,4 @@
+![logo](https://github.com/PeraByte/PeraByte/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Parshant</h1>
 <h3 align="center">I beleive in Code.</h3>
 
